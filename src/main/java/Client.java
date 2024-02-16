@@ -6,6 +6,7 @@ import java.net.Socket;
 
 public class Client {
 	
+    //comment
 	private String id;
 	private String serverIP;
 	private int serverPort;
